@@ -2,6 +2,6 @@
 ### Author: Viacheslav Rudametkin (slavoxhkaloo@gmail.com)
 
 ## Description
-This is a Home Layout for the imaginary PhotoMaster company website. This page was created exclusively for practicing web development skills in HTML, CSS, and JavaScript.
+This is the Home Layout for the imaginary PhotoMaster company website. This page was created exclusively for practicing web development skills in HTML, CSS, and JavaScript.
 
-If you interested in full site screenshot - check out file: full-site-screen.png
+If you're interested in a full-site preview, check out the image: full-site-screen.png. It was captured using a Chrome Extension, so some inaccuracies are possible.
